@@ -4,4 +4,6 @@ make sure to include in path during install
 # packages
 > pip install playwright
 # after installing playwright
-> playwright install 
+> playwright install
+
+need help installing playwright?
