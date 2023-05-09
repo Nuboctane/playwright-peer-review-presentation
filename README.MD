@@ -1,6 +1,8 @@
 install python v 3.10 or higher [here](https://www.python.org/downloads/)
 make sure to 'include in path' during install
 
+pip should already be included when installing python.
+if this refuses to work for you, fuck you, fix it your self [here](https://pypi.org/project/pip/)
 # packages
 > pip install playwright
 
