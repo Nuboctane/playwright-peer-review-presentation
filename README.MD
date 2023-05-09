@@ -1,5 +1,7 @@
 install python v 3.10 or higher [here](https://www.python.org/downloads/)
-make sure to 'include in path' during install
+make sure to 'include in path' during install.
+
+older python version installed? use python's build in uninstaller and remove python from included paths.
 
 pip should already be included when installing python.
 if this refuses to work for you, fuck you, fix it your self [here](https://pypi.org/project/pip/) or [here](https://builtin.com/software-engineering-perspectives/pip-command-not-found)
