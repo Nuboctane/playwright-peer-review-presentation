@@ -7,3 +7,4 @@ make sure to include in path during install
 > playwright install
 
 need help installing playwright?
+take a look [here](https://playwright.dev/python/docs/intro).
