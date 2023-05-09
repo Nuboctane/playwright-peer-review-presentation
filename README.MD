@@ -1,4 +1,5 @@
 install python v 3.10 or higher [here](https://www.python.org/downloads/)
+
 ![image](https://user-images.githubusercontent.com/72999487/237042754-40a92622-e75f-44c3-8339-7b4fd7f1e359.png)
 
 
