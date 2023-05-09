@@ -1,7 +1,7 @@
 install python v 3.10 or higher [here](https://www.python.org/downloads/)
 make sure to 'include in path' during install.
 
-older python version installed? use python's build in uninstaller and remove python from included paths.
+older python version installed? use python's build in uninstaller and **manualy** remove python from included paths.
 ![image](https://user-images.githubusercontent.com/72999487/237042123-45304b00-ddbe-460f-aec7-2e966344fc6d.png)
 
 
