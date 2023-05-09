@@ -1,0 +1,6 @@
+new to python?
+
+to test your code, in the directory of the python script run:
+py example.py
+
+make sure python is installed, reffer to the README for installation.
