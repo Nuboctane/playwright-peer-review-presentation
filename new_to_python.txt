@@ -1,6 +1,9 @@
 new to python?
 
-to test your code, in the directory of the python script run:
+to test your code, 
+open the directory of the file you want to run in your terminal,
+in the directory of the python script run:
+
 py example.py
 
 make sure python is installed, reffer to the README for installation.
